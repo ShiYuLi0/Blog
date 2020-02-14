@@ -23,6 +23,15 @@
 5.  修改配置信息，改成自己的信息
 6.  运行命令`hexo clean`（清除生成文件），`hexo g`（生成网页）， `hexo s`（本地预览），`hexo d`（部署）
 
+## 地址：
+
+GitHub:[https://github.com/ShiYuLi0/ShiYuLi0.github.io.git](https://github.com/ShiYuLi0/ShiYuLi0.github.io.git)
+
+Coding:[https://e.coding.net/shiyuli/shiyuli.git](https://e.coding.net/shiyuli/shiyuli.git)
+
+Gitee:[https://gitee.com/ShiYuLi0/blog.git](https://gitee.com/ShiYuLi0/blog.git)
+
+
 ## 鄙人联系方式
 
 QQ：
