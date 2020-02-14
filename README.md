@@ -24,5 +24,5 @@
 6.  运行命令`hexo clean`（清除生成文件），`hexo g`（生成网页）， `hexo s`（本地预览），`hexo d`（部署）
 
 鄙人联系方式
-![image](https://github.com/ShiYuLi0/Blog/blob/master/QQ.jpg)
-![Blog](Wechat.png)
+![QQ](QQ.jpg)
+![Wechat](Wechat.png)
