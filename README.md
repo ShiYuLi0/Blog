@@ -23,4 +23,4 @@
 5.  修改配置信息，改成自己的信息
 6.  运行命令`hexo clean`（清除生成文件），`hexo g`（生成网页）， `hexo s`（本地预览），`hexo d`（部署）
 
-鄙人联系方式![](file://B:\Temp\qrcode_1581655492229.jpg)![](B:\Temp\9.png)
+鄙人联系方式![](Blog/QQ.jpg)![](B:\Temp\9.png)
