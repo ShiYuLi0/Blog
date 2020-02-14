@@ -1,4 +1,4 @@
-## [https://lishiyu.vip/](https://lishiyu.vip/)
+## [lishiyu.vip](https://lishiyu.vip)
 
 ### 千里不辞行路远，时光早晚到天涯
 
