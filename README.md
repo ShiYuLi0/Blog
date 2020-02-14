@@ -10,7 +10,7 @@
 
 多亏各路神仙的资源，视频，博客，网站，讨论群……，特此感谢！
 
-此博客基于`**hexo**`框架搭建，源自开源，回馈开源。
+此博客基于**hexo**框架搭建，源自开源，回馈开源。
 
 现在我的`blog`网站源代码开源。这不是生成后的`public`网页文件，是可以直接使用的源码，您只需要把博客相关信息换成您自己的就可以部署了，可极大减轻博客新手的负担。只希望与您交个朋友。
 
@@ -23,7 +23,7 @@
 5.  修改配置信息，改成自己的信息
 6.  运行命令`hexo clean`（清除生成文件），`hexo g`（生成网页）， `hexo s`（本地预览），`hexo d`（部署）
 
-鄙人联系方式
+## 鄙人联系方式
 
 ![QQ](https://cdn.jsdelivr.net/gh/ShiYuLi0/Blog/QQ.jpg)
-![Wechat](Wechat.png)
+![Wechat](https://cdn.jsdelivr.net/gh/ShiYuLi0/Blog/Wechat.png)
