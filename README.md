@@ -25,5 +25,12 @@
 
 ## 鄙人联系方式
 
+QQ：
 ![QQ](https://cdn.jsdelivr.net/gh/ShiYuLi0/Blog/QQ.jpg)
+
+
+微信：
 ![Wechat](https://cdn.jsdelivr.net/gh/ShiYuLi0/Blog/Wechat.png)
+
+
+邮箱：giseryu@163.com
